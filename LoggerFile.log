@@ -1,0 +1,4 @@
+2026-02-17 18:20:16 - Filters - INFO - Init Gaussian Blur filter with arguments: image = lena.png, sigmaX = 5, sigmaY = 5, ksize = (5, 5), borderType = 0
+2026-02-17 18:20:16 - Filters - INFO - Gaussian Blur filter success executed
+2026-02-17 18:21:16 - Filters - INFO - Init Gaussian Blur filter with arguments: image = lena.png, sigmaX = 5, sigmaY = 5, ksize = (5, 5), borderType = 0
+2026-02-17 18:21:16 - Filters - INFO - Gaussian Blur filter success executed
